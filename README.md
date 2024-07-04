@@ -6,7 +6,7 @@ Our code is based on [DN4](https://github.com/WenbinLee/DN4).
 ## Prerequisites
 - Python 3
 - Pytorch 0.4 or 1.0
-- GPU + CUDA CuDNN
+- NVIDIA RTX 4090 GPU + CUDA CuDNN
 - pillow, torchvision, scipy, numpy
 
 
